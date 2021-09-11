@@ -1,5 +1,3 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=transparent) -->
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=✍️Brush%20on%20my%20development%20skill&fontSize=50&customColorList=0,2,2,2,2,3)
 
 <!-- Language stack -->
@@ -8,6 +6,7 @@
 <img src="https://img.shields.io/badge/Oracle-006272?style=flat-square&logo=Oracle&logoColor=#006272"/> <img src="https://img.shields.io/badge/MySQL-006272?style=flat-square&logo=MySQL&logoColor=#006272"/> <img src="https://img.shields.io/badge/PostgreSQL-006272?style=flat-square&logo=PostgreSQL&logoColor=#006272"/> <br> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=#000000"/> 
 <img src="https://img.shields.io/badge/ApacheTomcat-000000?style=flat-square&logo=Apache&Tomcat&logoColor=#000000"/> <img src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=NGINX&logoColor=#000000"/> 
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=transparent) -->
 
 <br><br><br><br>
 
