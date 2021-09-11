@@ -4,12 +4,37 @@
 
 <!-- Language stack -->
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-3766AB?style=flat-square&logo=Flask&logoColor=white"/> <br> 
- <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/Springboot-3766AB?style=flat-square&logo=Springboot&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/JPA-3766AB?style=flat-square&logo=JPA&logoColor=#F7DF1E"/>  <img src="https://img.shields.io/badge/Security-3766AB?style=flat-square&logo=Security&logoColor=#F7DF1E"/>  <img src="https://img.shields.io/badge/JSP-3766AB?style=flat-square&logo=Jsp&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/Thymeleaf-3766AB?style=flat-square&logo=Thymeleaf&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/Springboot-3766AB?style=flat-square&logo=Springboot&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/JPA-3766AB?style=flat-square&logo=JPA&logoColor=#F7DF1E"/>  <img src="https://img.shields.io/badge/Security-3766AB?style=flat-square&logo=Security&logoColor=#F7DF1E"/>  <img src="https://img.shields.io/badge/JSP-3766AB?style=flat-square&logo=Jsp&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/Thymeleaf-3766AB?style=flat-square&logo=Thymeleaf&logoColor=#F7DF1E"/> <br> 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=#4479A1"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=#4169E1"/> <br> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=#000000"/> 
+<img src="https://img.shields.io/badge/ApacheTomcat-000000?style=flat-square&logo=Apache&Tomcat&logoColor=#000000"/> <img src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=NGINX&logoColor=#000000"/> 
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=#4479A1"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=#4169E1"/>
+
+ <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=#000000"/> 
+
+Apache Tomcat
+#F8DC75
 
 
+JavaScript
+#F7DF1E
 
+NGINX
+#009639
+
+Docker
+#2496ED
+
+HTML5
+#E34F26
+
+TypeScript
+#3178C6
+
+React
+#61DAFB
+
+CSS3
+#1572B6
 <br><br><br><br>
 
 <!-- SNS -->
