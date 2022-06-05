@@ -22,7 +22,7 @@
 -->
 <br> <br>
 
-### Commit Type
+### [Commit Convension](https://www.google.com/search?q=%ED%8F%B4%EB%8D%94+%EC%88%98%EC%A0%95+coding+conversion&oq=%ED%8F%B4%EB%8D%94+%EC%88%98%EC%A0%95+coding+conversion&aqs=chrome..69i57j0i546l2.6192j0j7&sourceid=chrome&ie=UTF-8)
 
 - **feat** : 새로운 기능 추가
 - **fix** : 버그 수정
@@ -31,3 +31,4 @@
 - **refactor** : 코드 리펙토링
 - **test** : 테스트 코드, 리펙토링 테스트 코드 추가 
 - **chore** : 빌드 업무 수정, 패키지 매니저 수정
+- **rename** :	파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우
