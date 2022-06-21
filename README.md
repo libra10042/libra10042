@@ -32,3 +32,29 @@
 - **test** : 테스트 코드, 리펙토링 테스트 코드 추가 
 - **chore** : 빌드 업무 수정, 패키지 매니저 수정
 - **rename** :	파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우
+
+<br><br>
+
+### Java docs
+
+| 이름 | 설명 |
+| --- | --- |
+| @version | 패키지 등 구현체 버전 |
+| @author | 코드 작성자 |
+| @deprecated | 해당 구현체의 삭제, 지원 중단을 예고함.  |
+| @since | 해당 구현체가 추가된 버전. |
+| @see |  참조할 다른 클래스/ 메서드 / 외부 링크. |
+| @link | @see 와 동일 |
+| @exception | [ExceptionClass Desciption] throw 할 수 있는 예외 정의, ExceptionClass 알파벳 순으로 작성. |
+| @throws | @exception과 동일 |
+| @param | [ParamName Description] 메서드, 생성자 인자값 설명 |
+| @return | 반환 값 설명 |
+| @serial | Serializeable 인터페이스에 사용 |
+| @serialData | writeObject writeExternal 메서드로 작성된 추가적 데이터를 설명 |
+| @serialField | serialPersistnetFields 배열의 모든 필드에 사용.  |
+
+
+
+
+
+
